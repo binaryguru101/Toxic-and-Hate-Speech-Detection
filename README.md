@@ -210,7 +210,7 @@ Asian, Caucasian, Jewish
 
 ---
 
-# Technologies Used
+# Libraries Used
 
 - Python
 - PyTorch
